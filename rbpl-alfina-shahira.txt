@@ -1,4 +1,5 @@
 RENCANA RBPL ALFINA:
+- ketemu user, interview
 - requirement analysis
 - ux design making
 - membuat codingan php
