@@ -1,5 +1,5 @@
 rencana konten:
 
-- sistem penjualan
-- video
+- sistem penjualan (termasuk kasir)
+- video cara penggunaan produknya
 - gambar produk
