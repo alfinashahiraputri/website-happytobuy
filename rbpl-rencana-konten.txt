@@ -4,3 +4,4 @@ rencana konten:
 - video cara penggunaan produknya
 - gambar produk
 - fitur feedback pelanggan
+ dikasi fitur telepon dan video call, nggak hanya komentar
