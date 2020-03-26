@@ -1,5 +1,6 @@
 RENCANA RBPL ALFINA:
 - requirement analysis
+- ux design making
 - membuat codingan php
 - testing
 - deploy
