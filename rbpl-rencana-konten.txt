@@ -3,3 +3,4 @@ rencana konten:
 - sistem penjualan (termasuk kasir)
 - video cara penggunaan produknya
 - gambar produk
+- fitur feedback pelanggan
