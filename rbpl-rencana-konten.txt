@@ -2,6 +2,8 @@ rencana konten:
 
 - sistem penjualan (termasuk kasir)
 - video cara penggunaan produknya
- aku maunya dikasih suara yg bagus
+
+ beserta komentar dari pemakai lainnya
+- gambar produk
 - fitur feedback pelanggan
- tapi ditambahin share screen
+ dikasi fitur telepon dan video call, nggak hanya komentar
